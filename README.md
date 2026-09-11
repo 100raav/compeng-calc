@@ -123,12 +123,12 @@ open index.html
 For the best experience, serve the project from a local HTTP server:
 
 ```bash
-python3 -m http.server 8000
+python3 -m [http.server 8000](https://compeng-calc.vercel.app/)
 # or
 npx serve .
 ```
 
-Then visit **[http://localhost:8000](https://compeng-calc.vercel.app/)**.
+Then visit **[(https://compeng-calc.vercel.app/)](https://compeng-calc.vercel.app/)**.
 
 ---
 
